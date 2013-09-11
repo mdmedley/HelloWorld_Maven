@@ -13,7 +13,7 @@ public class HelloWorld_Maven {
 	}
 	
 	public static String getMessage() {
-		return "We keep it rockin!";
+		return "We keep it rockin!!";
 	}
 
 }
